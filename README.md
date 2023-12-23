@@ -50,10 +50,12 @@ You found an error or want to add something to list? See [Contributing](#contrib
 
 ## Templating
 
-## Miscellaneous
+## Tasks and Scheduling
 * [CodeIgniter4 Tasks](https://tasks.codeigniter.com/) - Official library for scheduling Cron Jobs
-* [CodeIgniter4 Settings](https://settings.codeigniter.com/) - Interface to read and store config values in the database.
 * [CodeIgniter4 Queue](https://queue.codeigniter.com/) - Official library that helps to handle Queues
+    
+## Utilities
+* [CodeIgniter4 Settings](https://settings.codeigniter.com/) - Interface to read and store config values in the database.
 * [CodeIgniter4 PSR Cache](https://github.com/codeigniter4/cache) - Optional PSR-6 and PSR-16 Cache Adapters for third-party packages
 
 ## Resources
