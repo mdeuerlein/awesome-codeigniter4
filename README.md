@@ -25,6 +25,10 @@ You found an error or want to add something to list? See [Contributing](#contrib
 
 ## Essentials
 
+* [CodeIgniter](https://codeigniter.com)  - Official Website CodeIgniter Foundation
+* [User Guide](https://codeigniter.com/user_guide)) - Codeigniter 4 Dokumenation
+* [Github](https://github.com/codeigniter4/CodeIgniter4) - Official Code Repository
+  
 ## Starters
 
 ## Development
