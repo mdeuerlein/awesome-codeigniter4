@@ -1,2 +1,14 @@
-# awesome-codeigniter4
-A curated list of amazingly awesome libraries, resources and more for Codeigniter 4.
+# Awesome Codeigniter4 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome resources for the CodeIgniter 4 PHP Framework.
+
+
+
+
+See [Contributing](#contributing).
+
+--------------------
+
+## Table of contents
+
+- [Software](#software)
+  - [Analytics](#analytics)
