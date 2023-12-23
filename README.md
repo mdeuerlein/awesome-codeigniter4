@@ -21,6 +21,8 @@ You found an error or want to add something to list? See [Contributing](#contrib
 - [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 
+
+ 
 --------------------
 
 ## Essentials
@@ -30,22 +32,28 @@ You found an error or want to add something to list? See [Contributing](#contrib
 * [CI4 - User Guide](https://codeigniter.com/user_guide)
 * [CI4 - Github](https://github.com/codeigniter4/CodeIgniter4)
 
-
   
 ## Starters
-
+* [CodeIgniter4 Appstarter](https://github.com/codeigniter4/appstarter) - Official composer project package
+  
 ## Development
-
+* [CodeIgniter4 Devkit](https://github.com/codeigniter4/devkit) - Development toolkit for CodeIgniter libraries and projects
+  
 ## APIs
 
 ## Authentication
-
+* [CodeIgniter4 Shield](https://shield.codeigniter.com/) - Official authentication and authorization framework
+  
 ## Communication
 
 ## Database
 
 ## Templating
 
-## R
-
 ## Miscellaneous
+* [CodeIgniter4 Tasks](https://tasks.codeigniter.com/) - Official library for scheduling Cron Jobs
+* [CodeIgniter4 Settings](https://settings.codeigniter.com/) - Interface to read and store config values in the database.
+* [CodeIgniter4 Queue](https://queue.codeigniter.com/) - Official library that helps to handle Queues
+* [CodeIgniter4 PSR Cache](https://github.com/codeigniter4/cache) - Optional PSR-6 and PSR-16 Cache Adapters for third-party packages
+
+## Resources
